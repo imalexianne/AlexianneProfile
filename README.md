@@ -13,9 +13,12 @@ With a strong background in software development focused on data analytics, I br
 - **Tools:** Jupyter, VS Code, PowerBI, Google Colab
 - **Visualization:** Matplotlib, Seaborn
 
-## Let's Connect
-🌍  Kigali, Rwanda
-✉️  imalexianne@gmail.com
+🚀 Always at the forefront of technology, I'm ready to contribute innovative solutions to a team that values excellence in the ever-evolving landscape of IT.
+## 📈 Let's connect 
+and explore the exciting possibilities at the intersection of technology and data!
+
+- 🌍  Kigali, Rwanda
+- ✉️  imalexianne@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/alexianne)
 - [Portfolio](https://yourportfolio.com)
 
