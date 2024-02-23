@@ -20,7 +20,7 @@ and explore the exciting possibilities at the intersection of technology and dat
 - 🌍  Kigali, Rwanda
 - ✉️  imalexianne@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/alexianne)
-- [Portfolio]([https://yourportfolio.com](https://imalexianne.github.io/Portfolio/)
+- [Portfolio](https://imalexianne.github.io/Portfolio/)
 
 
 
